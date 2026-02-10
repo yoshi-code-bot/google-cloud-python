@@ -865,6 +865,12 @@ Libraries
      -
      -
      - `Client Library Issues <https://github.com/googleapis/google-cloud-python/issues>`_
+   * - `API Registry API <https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-apiregistry>`_
+     - preview
+     - |PyPI-google-cloud-apiregistry|
+     - `API Issues <https://issuetracker.google.com/issues?q=componentid:1979613>`_
+     - `File an API Issue <https://issuetracker.google.com/issues/new?component=1979613&template=2231768>`_
+     - `Client Library Issues <https://github.com/googleapis/google-cloud-python/issues>`_
    * - `Access Context Manager <https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-access-context-manager>`_
      - preview
      - |PyPI-google-cloud-access-context-manager|
@@ -958,6 +964,18 @@ Libraries
    * - `Audit Log API <https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-audit-log>`_
      - preview
      - |PyPI-google-cloud-audit-log|
+     -
+     -
+     - `Client Library Issues <https://github.com/googleapis/google-cloud-python/issues>`_
+   * - `Audit Manager API <https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-auditmanager>`_
+     - preview
+     - |PyPI-google-cloud-auditmanager|
+     - `API Issues <https://issuetracker.google.com/issues?q=componentid:1335397>`_
+     - `File an API Issue <https://issuetracker.google.com/issues/new?component=1335397&template=0>`_
+     - `Client Library Issues <https://github.com/googleapis/google-cloud-python/issues>`_
+   * - `Auth httplib2 <https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-httplib2>`_
+     - preview
+     - |PyPI-google-auth-httplib2|
      -
      -
      - `Client Library Issues <https://github.com/googleapis/google-cloud-python/issues>`_
@@ -1465,6 +1483,12 @@ Libraries
      -
      -
      - `Client Library Issues <https://github.com/googleapis/google-cloud-python/issues>`_
+   * - `Python Test Utils for Cloud <https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-testutils>`_
+     - preview
+     - |PyPI-google-cloud-testutils|
+     -
+     -
+     - `Client Library Issues <https://github.com/googleapis/google-cloud-python/issues>`_
    * - `Quotas API <https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-quotas>`_
      - preview
      - |PyPI-google-cloud-quotas|
@@ -1874,6 +1898,8 @@ Libraries
      :target: https://pypi.org/project/google-cloud-apihub
 .. |PyPI-google-cloud-api-keys| image:: https://img.shields.io/pypi/v/google-cloud-api-keys.svg
      :target: https://pypi.org/project/google-cloud-api-keys
+.. |PyPI-google-cloud-apiregistry| image:: https://img.shields.io/pypi/v/google-cloud-apiregistry.svg
+     :target: https://pypi.org/project/google-cloud-apiregistry
 .. |PyPI-google-cloud-access-context-manager| image:: https://img.shields.io/pypi/v/google-cloud-access-context-manager.svg
      :target: https://pypi.org/project/google-cloud-access-context-manager
 .. |PyPI-google-ads-admanager| image:: https://img.shields.io/pypi/v/google-ads-admanager.svg
@@ -1906,6 +1932,10 @@ Libraries
      :target: https://pypi.org/project/google-area120-tables
 .. |PyPI-google-cloud-audit-log| image:: https://img.shields.io/pypi/v/google-cloud-audit-log.svg
      :target: https://pypi.org/project/google-cloud-audit-log
+.. |PyPI-google-cloud-auditmanager| image:: https://img.shields.io/pypi/v/google-cloud-auditmanager.svg
+     :target: https://pypi.org/project/google-cloud-auditmanager
+.. |PyPI-google-auth-httplib2| image:: https://img.shields.io/pypi/v/google-auth-httplib2.svg
+     :target: https://pypi.org/project/google-auth-httplib2
 .. |PyPI-google-cloud-backupdr| image:: https://img.shields.io/pypi/v/google-cloud-backupdr.svg
      :target: https://pypi.org/project/google-cloud-backupdr
 .. |PyPI-google-cloud-gke-backup| image:: https://img.shields.io/pypi/v/google-cloud-gke-backup.svg
@@ -2074,6 +2104,8 @@ Libraries
      :target: https://pypi.org/project/google-cloud-privilegedaccessmanager
 .. |PyPI-google-cloud-security-publicca| image:: https://img.shields.io/pypi/v/google-cloud-security-publicca.svg
      :target: https://pypi.org/project/google-cloud-security-publicca
+.. |PyPI-google-cloud-testutils| image:: https://img.shields.io/pypi/v/google-cloud-testutils.svg
+     :target: https://pypi.org/project/google-cloud-testutils
 .. |PyPI-google-cloud-quotas| image:: https://img.shields.io/pypi/v/google-cloud-quotas.svg
      :target: https://pypi.org/project/google-cloud-quotas
 .. |PyPI-google-cloud-rapidmigrationassessment| image:: https://img.shields.io/pypi/v/google-cloud-rapidmigrationassessment.svg
